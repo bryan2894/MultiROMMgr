@@ -654,8 +654,8 @@
             ]
         },
         {
-            "names": [ "d851", "d855" ],
-            "manifest_url": "https://raw.githubusercontent.com/Eliminater74/eliminater74.github.com/master/Downloads/json/mr_g3.json",
+            "names": [ "d850", "d851", "d852", "d855", "d856", "f400", "ls990", "vs985", "g3" ],
+            "manifest_url": "https://bitbucket.org/bryan2894/multirom_g3_json/raw/master/manifest.json",
             "check_gpg": false,
             "ubuntu_touch": {
                 "enabled": false,
